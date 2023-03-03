@@ -34,7 +34,7 @@ Key Files
 
 [Link](https://www.youtube.com/watch?v=QvTyqta3OJo&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&index=2)
 
-![urls_views.png](../crm/static/images/urls_views.png)
+![urls_views.png](https://github.com/mel-fayne/django-course/blob/main/static/images/urls_views.png)
 
 **Setps done**
 1. Create a urls.py file in accounts app
