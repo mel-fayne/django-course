@@ -82,7 +82,7 @@ Key Files
 **One to Many Relationship**
 - An Example : One Customer has placed 3 different orders
   
-![one-to_many.png](../crm/static/images/one_to_many.png)
+![one-to_many.png](/crm/static/images/one_to_many.png)
 
 **Many to Many Relationship**
 - An Example : A tag can have many products and a product can also have many tags.
